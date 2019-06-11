@@ -1,0 +1,1 @@
+"# Demo"  initgit add README.mdgit commit -m "first commit"git remote add origin https://github.com/qrz136185/Demo.gitgit push -u origin master
