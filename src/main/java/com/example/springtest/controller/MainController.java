@@ -14,6 +14,7 @@ public class MainController {
        ModelAndView view = new ModelAndView("/main");
        return view;
    }
+
    @RequestMapping("someString")
    public String someString(){
         return "hello";
