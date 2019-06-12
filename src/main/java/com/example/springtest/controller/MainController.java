@@ -22,4 +22,8 @@ public class MainController {
    public String someString(){
         return "hello";
    }
+   public void test(){
+
+   }
+
 }
