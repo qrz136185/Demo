@@ -12,6 +12,7 @@ public class MainController {
 
 
 
+
     @RequestMapping("/main")
    public ModelAndView main(){
        ModelAndView view = new ModelAndView("/main");
